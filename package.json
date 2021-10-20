@@ -12,7 +12,7 @@
     "sass": "^1.42.1",
     "web-vitals": "^1.1.2"
   },
-  "homepage": "https://sunzhangchang.github.io/tic_tac_toe",
+  "homepage": "./",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
